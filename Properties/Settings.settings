@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ToolReport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TimeSendReport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3:40:00</Value>
+    </Setting>
+    <Setting Name="SQLServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">171.244.0.161</Value>
+    </Setting>
+    <Setting Name="SQLDatabaseName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MPARKING</Value>
+    </Setting>
+    <Setting Name="SQLAuthentication" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SQL Sever Authentication</Value>
+    </Setting>
+    <Setting Name="SQLPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kztek123456</Value>
+    </Setting>
+    <Setting Name="SQLUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">adminLogin</Value>
+    </Setting>
+    <Setting Name="SQLDatabaseNameEvent" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MPARKINGEVENT</Value>
+    </Setting>
+    <Setting Name="currentDay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2020/10/11 00:00:00</Value>
+    </Setting>
+    <Setting Name="ListMailReceiveReport" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
